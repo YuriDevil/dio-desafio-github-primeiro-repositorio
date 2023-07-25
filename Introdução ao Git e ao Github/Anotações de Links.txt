@@ -1,0 +1,12 @@
+Link para Download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do git.
+
+Link para DIO: https://web.dio.me
+A DIO é um site para expandir seus conhecimentos sobre programação.
+
+Link Para Download do Visual Studio Code: https://code.visualstudio.com/download
+O Visual Studio Code é um dos melhores editores de texto para programar hj em dia.
+
+Link Para o GitHub: https://github.com
+o GitHub é um site para exibir seus repositórios para a internet, também usado como servidor remoto para enviar seus projetos do Git Bash
+pode ser usado também para resolver erros nos repositórios de outros usuários, ou usar os repositórios dos usuários como base para projetos.

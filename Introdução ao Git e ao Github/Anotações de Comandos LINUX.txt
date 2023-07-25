@@ -1,0 +1,16 @@
+## Navegação no Terminal/Linux ##
+
+  _Comandos_
+
+
+  *Linux*
+
+**cd** - visualiza o caminho do diretório
+
+**ls** - exibe o conteúdo do diretório
+
+**mkdir** - cria um diretório no local
+
+**-rm -rf ** - deleta o diretório atual
+
+**clear** - limpa o terminal

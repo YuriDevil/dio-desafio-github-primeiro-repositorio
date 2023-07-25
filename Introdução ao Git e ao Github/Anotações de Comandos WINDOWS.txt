@@ -1,0 +1,41 @@
+## Navegação no CMD/Terminal ##
+
+ _Comandos_
+
+ *Windows*
+
+**cd** - visualiza o caminho do diretório
+
+Exemplo: 
+C:\Users\username\workspace>
+
+**dir** - exibe o conteúdo do diretório
+
+Exemplo:
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 24**-C**2
+
+ Pasta de C:\workspace
+
+24/07/2023  15:24    <DIR>          .
+24/07/2023  15:24    <DIR>          ..
+24/07/2023  20:05    <DIR>          **-***
+               * arquivo(s)              * bytes
+               * pasta(s)   **.***.***.*** bytes disponíveis
+
+
+**mkdir** - cria um diretório no local.
+
+Exemplo: 
+C:\Users\username\workspace>mkdir (nome do diretório)
+
+**del/rmdir** - deleta o diretório atual
+
+Exemplo: 
+C:\Users\username\workspace>del (nome do diretório)
+C:\Users\username\workspace>rmdir (nome do diretório) [remove o diretório a força.]
+
+**cls** - limpa o terminal
+
+
+
